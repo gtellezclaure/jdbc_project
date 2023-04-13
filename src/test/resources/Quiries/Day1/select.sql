@@ -1,0 +1,21 @@
+select * from employee;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
